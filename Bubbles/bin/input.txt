@@ -1,0 +1,3 @@
+CountPoints=20
+BornTime=0.5
+LifeTime=1.0

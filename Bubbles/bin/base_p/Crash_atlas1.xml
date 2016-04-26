@@ -1,0 +1,7 @@
+<Frames count="4" path="textures/particles/" group="Particles">
+	<frame x="1" y="1" width="13" height="13" innerX="0" innerY="0" frameWidth="13" frameHeight="13" path="SmallBubble"/>
+	<frame x="16" y="1" width="64" height="64" innerX="0" innerY="0" frameWidth="64" frameHeight="64" path="star"/>
+	<frame x="82" y="1" width="26" height="26" innerX="1" innerY="1" frameWidth="28" frameHeight="28" path="adot"/>
+	<frame x="110" y="1" width="35" height="38" innerX="3" innerY="1" frameWidth="40" frameHeight="40" path="enPart1"/>
+</Frames>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<GUI>
+	<Layer name="BubblesLayer">
+		<Controls>
+			<BubblesWidget name="BubblesWidget"/>
+		</Controls>
+	</Layer>
+</GUI>
